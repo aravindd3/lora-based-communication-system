@@ -1,3 +1,12 @@
+## Project Team
+
+* Aravind VS
+* Vyshnav Harilal
+* Sidharth P
+* Jagadjith U
+* Arun K
+* 
+
 # LoRa-Based Communication System
 
 Repository for the firmware and custom KiCad hardware design of a portable LoRa-based communication device.
