@@ -1,10 +1,10 @@
 ## Project Team
 
-* Aravind VS
-* Vyshnav Harilal
-* Sidharth P
-* Jagadjith U
-* Arun K
+* [Aravind VS](https://github.com/USERNAME)
+* [Vyshnav Harilal](https://github.com/USERNAME)
+* [Sidharth P](https://github.com/USERNAME)
+* [Jagadjith U](https://github.com/Jagadjith-U)
+* [Arun K](https://github.com/USERNAME)
 * [Alwin Sunny Jude](https://github.com/Jude-00-05)
 
 # LoRa-Based Communication System
