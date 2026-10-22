@@ -1,0 +1,34 @@
+** Drc report for lora.kicad_pcb **
+** Created on 2026-10-08T19:34:52 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 4 DRC violations **
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.1944 mm)
+    Rule: board setup constraints hole; error
+    @(120.5996 mm, 140.0840 mm): Pad B12 [/GND] of J2 on F.Cu
+    @(120.9096 mm, 141.1590 mm): NPTH pad of J2
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.1944 mm)
+    Rule: board setup constraints hole; error
+    @(120.5996 mm, 140.0840 mm): Pad A1 [/GND] of J2 on F.Cu
+    @(120.9096 mm, 141.1590 mm): NPTH pad of J2
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.1944 mm)
+    Rule: board setup constraints hole; error
+    @(126.9996 mm, 140.0840 mm): Pad A12 [/GND] of J2 on F.Cu
+    @(126.6896 mm, 141.1590 mm): NPTH pad of J2
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.1944 mm)
+    Rule: board setup constraints hole; error
+    @(126.9996 mm, 140.0840 mm): Pad B1 [/GND] of J2 on F.Cu
+    @(126.6896 mm, 141.1590 mm): NPTH pad of J2
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

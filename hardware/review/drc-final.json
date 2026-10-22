@@ -1,0 +1,130 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-10-08T19:31:33",
+    "ignored_checks": [
+        {
+            "description": "Footprint has no courtyard defined",
+            "key": "missing_courtyard"
+        },
+        {
+            "description": "Track endpoint not centered on via",
+            "key": "track_not_centered_on_via"
+        },
+        {
+            "description": "Tuning profile track geometries",
+            "key": "tuning_profile_track_geometries"
+        },
+        {
+            "description": "Footprint doesn't match symbol's footprint filters",
+            "key": "footprint_filters_mismatch"
+        },
+        {
+            "description": "Footprint component type doesn't match footprint pads",
+            "key": "footprint_type_mismatch"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning",
+        "exclusion"
+    ],
+    "kicad_version": "10.0.4",
+    "schematic_parity": [],
+    "source": "lora.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.1944 mm)",
+            "items": [
+                {
+                    "description": "Pad B12 [/GND] of J2 on F.Cu",
+                    "pos": {
+                        "x": 120.5996,
+                        "y": 140.084
+                    },
+                    "uuid": "d8bd694c-2a87-422b-b68b-8ea0f2387278"
+                },
+                {
+                    "description": "NPTH pad of J2",
+                    "pos": {
+                        "x": 120.9096,
+                        "y": 141.159
+                    },
+                    "uuid": "e93bf0bf-5a2e-4157-8e8f-351d8e0c167b"
+                }
+            ],
+            "severity": "error",
+            "type": "hole_clearance"
+        },
+        {
+            "description": "Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.1944 mm)",
+            "items": [
+                {
+                    "description": "Pad A1 [/GND] of J2 on F.Cu",
+                    "pos": {
+                        "x": 120.5996,
+                        "y": 140.084
+                    },
+                    "uuid": "907003ae-cabb-4cb1-b38b-616a11a06a6f"
+                },
+                {
+                    "description": "NPTH pad of J2",
+                    "pos": {
+                        "x": 120.9096,
+                        "y": 141.159
+                    },
+                    "uuid": "e93bf0bf-5a2e-4157-8e8f-351d8e0c167b"
+                }
+            ],
+            "severity": "error",
+            "type": "hole_clearance"
+        },
+        {
+            "description": "Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.1944 mm)",
+            "items": [
+                {
+                    "description": "Pad A12 [/GND] of J2 on F.Cu",
+                    "pos": {
+                        "x": 126.9996,
+                        "y": 140.084
+                    },
+                    "uuid": "45ee8fe9-37b3-416d-b744-ff95ffecb392"
+                },
+                {
+                    "description": "NPTH pad of J2",
+                    "pos": {
+                        "x": 126.6896,
+                        "y": 141.159
+                    },
+                    "uuid": "dc446552-1ffe-4f62-897c-a07d3fc8f6d8"
+                }
+            ],
+            "severity": "error",
+            "type": "hole_clearance"
+        },
+        {
+            "description": "Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.1944 mm)",
+            "items": [
+                {
+                    "description": "Pad B1 [/GND] of J2 on F.Cu",
+                    "pos": {
+                        "x": 126.9996,
+                        "y": 140.084
+                    },
+                    "uuid": "d2f120cf-b2ef-47da-a535-99907745c090"
+                },
+                {
+                    "description": "NPTH pad of J2",
+                    "pos": {
+                        "x": 126.6896,
+                        "y": 141.159
+                    },
+                    "uuid": "dc446552-1ffe-4f62-897c-a07d3fc8f6d8"
+                }
+            ],
+            "severity": "error",
+            "type": "hole_clearance"
+        }
+    ]
+}
