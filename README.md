@@ -5,7 +5,7 @@
 * Sidharth P
 * Jagadjith U
 * Arun K
-* Alwin Sunny Jude
+* [Alwin Sunny Jude](https://github.com/Jude-00-05)
 
 # LoRa-Based Communication System
 
