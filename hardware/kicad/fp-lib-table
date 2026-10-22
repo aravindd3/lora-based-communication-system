@@ -1,0 +1,10 @@
+(fp_lib_table
+	(version 7)
+	(lib
+		(name "Lora_Local")
+		(type "KiCad")
+		(uri "${KIPRJMOD}/libraries/Lora_Local.pretty")
+		(options "")
+		(descr "Per-instance footprints preserve local drill and silkscreen edits")
+	)
+)
