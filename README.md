@@ -5,7 +5,7 @@
 * Sidharth P
 * Jagadjith U
 * Arun K
-* 
+* Alwin Sunny Jude
 
 # LoRa-Based Communication System
 
